@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "UfCJ0/+QpM/SP5OVk+2k/BXmGThnjJ4+umHO4U6zt8M=",
+  "Source": "TestDevelopment",
+  "BasePath": "_content/TestDevelopment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestDevelopment\\wwwroot",
+      "Source": "TestDevelopment",
+      "ContentRoot": "D:\\Sample C#\\TestDevelopmentV1\\TestDevelopment\\wwwroot\\",
+      "BasePath": "_content/TestDevelopment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Sample C#\\TestDevelopmentV1\\TestDevelopment\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "TestDevelopment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Sample C#\\TestDevelopmentV1\\TestDevelopment\\wwwroot\\",
+      "BasePath": "_content/TestDevelopment",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "D:\\Sample C#\\TestDevelopmentV1\\TestDevelopment\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "TestDevelopment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Sample C#\\TestDevelopmentV1\\TestDevelopment\\wwwroot\\",
+      "BasePath": "_content/TestDevelopment",
+      "RelativePath": "js/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    }
+  ]
+}
